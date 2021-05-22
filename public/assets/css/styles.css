@@ -1,0 +1,81 @@
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+@import "https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700";
+
+body {
+    font-family: 'Poppins','Open Sans',sans-serif;
+    background-color: #FAFAFF;
+}
+nav {
+    background-color: #FFFFFF;
+}
+ul li a {
+    color: #000000;
+}
+ul li a:hover {
+    color: #4464DF;
+}
+.content {
+    padding-top: 1rem;
+}
+.card-hello {
+    font-size: 1.75em;
+}
+.describe {
+    padding-top: 1rem;
+}
+.size-img-laravel {
+    width: 128px;
+    height: 128px;
+}
+.profile {
+    width: 600px;
+    margin: 120px auto 120px;
+    background-color: #fff;
+    padding: 0 20px 20px;
+    border-radius: 6px;
+    text-align: center;
+}
+.profile-flip {
+    border-radius: 100px;
+    overflow: hidden;
+    height: 150px;
+    width: 150px;
+    position: relative;
+    margin: auto;
+    top: -40px;
+}
+.profile-flip img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    border-radius: 100px;
+}
+.personal-data {
+    text-align: left;
+}
+.instagram a {
+    text-decoration: none;
+    color: #000000;
+}
+.twitter a {
+    text-decoration: none;
+    color: #000000;
+}
+.linkedin a {
+    text-decoration: none;
+    color: #000000;
+}
+.gitlab a {
+    text-decoration: none;
+    color: #000000;
+}
+.github a {
+    text-decoration: none;
+    color: #000000;
+}
+h4 {
+    font-size: 15px;
+    color: #4464DF;
+    letter-spacing: 1px;
+    margin-bottom: 25px
+}
