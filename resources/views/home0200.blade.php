@@ -18,10 +18,10 @@
     <nav class="navbar">
         <ul class="nav justify-content-center">
             <li class="nav-item">
-                <a class="nav-link active" href="index.html">Home</a>
+                <a class="nav-link active" href="{{'/home'}}">Home</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="artikel.html">Artikel</a>
+                <a class="nav-link" href="{{'/artikel'}}">Artikel</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="contact_us.html">Contact Us</a>
