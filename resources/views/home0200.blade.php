@@ -24,7 +24,7 @@
                 <a class="nav-link" href="{{'/artikel'}}">Artikel</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="contact_us.html">Contact Us</a>
+                <a class="nav-link" href="{{'/contact_us'}}">Contact Us</a>
             </li>
         </ul>
     </nav>
